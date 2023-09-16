@@ -1,2 +1,1 @@
-# CSE341
-Web Services - CSE 341
+# cse-341-project1
